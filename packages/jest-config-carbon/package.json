@@ -1,0 +1,30 @@
+{
+  "name": "jest-config-carbon",
+  "private": true,
+  "version": "0.0.0",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": "https://github.com/carbon-design-system/incubator/tree/master/packages/jest-config-carbon",
+  "bugs": "https://github.com/carbon-design-system/incubator/issues",
+  "keywords": [
+    "carbon",
+    "carbon design system"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "axe-core": "^3.5.4",
+    "babel-jest": "^26.0.1",
+    "babel-preset-carbon": "^0.0.0",
+    "chalk": "^4.1.0",
+    "jest-circus": "^26.0.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}

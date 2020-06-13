@@ -1,0 +1,12 @@
+{
+  "name": "@carbonincubator/sample",
+  "private": true,
+  "version": "0.0.0",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/carbon-design-system/incubator/tree/master/packages/sample",
+  "bugs": "https://github.com/carbon-design-system/incubator/issues",
+  "keywords": [
+    "carbon",
+    "carbon design system"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "babel-preset-carbon",
+  "private": true,
+  "version": "0.0.0",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/carbon-design-system/incubator/tree/master/packages/babel-preset-carbon",
+  "bugs": "https://github.com/carbon-design-system/incubator/issues",
+  "keywords": [
+    "carbon",
+    "carbon design system"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-react": "^7.10.1",
+    "browserslist-config-carbon": "^10.4.0"
+  }
+}
