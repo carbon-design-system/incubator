@@ -1,10 +1,8 @@
-<h1 align="center">
-  Carbon Incubator
-</h1>
+# Carbon Incubator
 
 > [Experimental] Explore, build, and try-out new work with Carbon
 
-<p align="center">
+<p>
   <a href="https://github.com/carbon-design-system/carbon/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="Carbon Incubator is released under the Apache-2.0 license" />
   </a>
