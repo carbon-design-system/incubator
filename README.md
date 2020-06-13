@@ -1,7 +1,5 @@
 # Carbon Incubator
 
-> [Experimental] Explore, build, and try-out new work with Carbon
-
 <p>
   <a href="https://github.com/carbon-design-system/carbon/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="Carbon Incubator is released under the Apache-2.0 license" />
@@ -16,6 +14,15 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" />
   </a>
 </p>
+
+> [Experimental] Explore, build, and try-out new work with Carbon
+
+## About
+
+Carbon Incubator is an experimental project to support exploring, building, and
+trying out new work with Carbon from teams across the Carbon community.
+
+If you're interested in getting involved, please reach out!
 
 ## 🙌 Contributing
 
